@@ -119,7 +119,7 @@ Response:
 - ✅ Backend API structure and endpoints (may have some issues to fix)
 - ✅ Frontend React application structure
 - ✅ Journey data model and types
-- ✅ Modal component structure (needs implementation)
+- ✅ Modal component 
 - ⚠️ **Frontend-Backend integration** - Not yet connected
 - ⚠️ **Journey creation form in modal** - Not implemented
 - ⚠️ **Journey table display** - Not implemented
