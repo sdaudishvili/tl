@@ -11,11 +11,7 @@ const getRandomDuration = () => {
 };
 
 const trimString = (str: string) => {
-  return str
-    .trim()
-    .split('')
-    .filter((char) => char.match(/[a-zA-Z]/))
-    .join('');
+  return str.trim().split('').join('');
 };
 
 export const createJourney = (journeyRequest: JourneyRequest): Journey => {
